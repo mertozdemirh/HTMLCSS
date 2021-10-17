@@ -70,6 +70,7 @@ main{
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    margin-top: 2rem;
     
 }
 .post-button:hover{
